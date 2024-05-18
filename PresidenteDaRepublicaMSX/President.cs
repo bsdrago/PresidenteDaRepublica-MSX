@@ -2,7 +2,7 @@
 
 namespace SimulacaoPresidencial
 {
-    class Program
+    class President
     {
         static double ML = 1000000;
         static double P = 3 * ML; // População
@@ -206,6 +206,8 @@ namespace SimulacaoPresidencial
             Console.WriteLine("A taxa de desemprego passou a ser " + (int)( U * 100 / P ) / 10 + "%.");
             Console.WriteLine("A taxa de inflacao era de " + (int)( IP * 10 ) / 10 + "%.");
             Console.WriteLine("O balanco passou a ser $M " + (int)( BD * 10 ) / 10 + ".");
+
+            Console.ReadKey(); // Necessario para amostrar o resultado na tela 
         }
     }
 }

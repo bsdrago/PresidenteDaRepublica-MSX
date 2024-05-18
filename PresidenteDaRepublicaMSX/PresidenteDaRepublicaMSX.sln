@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresidenteDaRepublicaMSX", "PresidenteDaRepublicaMSX.csproj", "{59ADB7BF-43F8-43BD-B7DE-612175B50E2E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSX Code", "MSX Code", "{4CF7755E-7CB6-48F8-9BE4-83EC8A0C788C}"
+	ProjectSection(SolutionItems) = preProject
+		President.bas = President.bas
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
