@@ -8,4 +8,4 @@ O arquivo presidente.bas éo arquivo com o codigo retirado do livro Simulações
 ## Versão C#
 O projeto é para Visual Studio 2022. O codigo da "tradução" esta integralmente dentro do President.cs
 
-![Presidente da republica]([https://github.com/bsdrago/PresidenteDaRepublica-MSX/blob/main/pics/screenshot.png?raw=true])
+![Presidente da republica](https://github.com/bsdrago/PresidenteDaRepublica-MSX/blob/main/pics/screenshot.png?raw=true)
