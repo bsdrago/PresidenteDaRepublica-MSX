@@ -1,5 +1,6 @@
 # PresidenteDaRepublica-MSX
- Tradução para C# do "simulador" presidente da republica desenvolvido em MSX-BASIC no livro SImulações para MSX de OScars Julio Burd
+ Tradução para C# do "simulador" presidente da republica desenvolvido em MSX-BASIC no livro Simulações no MSX. 
+ Oscar Julio Burd. Título: Simulaçãoes no MSX. 1a Edição. São Paulo: McGraw-Hill, 1987.
 
 ## Codigo MSX
 O arquivo presidente.bas éo arquivo com o codigo retirado do livro Simulações para MSX
