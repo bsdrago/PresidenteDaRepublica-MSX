@@ -5,4 +5,4 @@
 O arquivo presidente.bas éo arquivo com o codigo retirado do livro Simulações para MSX
 
 ## Versão C#
-O projeto é para Visual Studio 2022. O codigo da "tradução" esta integralmente dentro do 
+O projeto é para Visual Studio 2022. O codigo da "tradução" esta integralmente dentro do President.cs
